@@ -1,0 +1,10 @@
+# OS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# environment
+/.env
+
+# IDE specific files
+/.idea
